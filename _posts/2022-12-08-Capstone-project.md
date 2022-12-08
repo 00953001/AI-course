@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pose Estimation
+title: capstone project
 author: [Yuhsiang Lin]
 category: [Lecture]
 tags: [jekyll, ai]
