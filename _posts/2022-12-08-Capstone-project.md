@@ -6,10 +6,10 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-期末專題實作:Robotic Hand(敏捷機器手之強化學習)
+期末專題實作:Deep Reinforcement Learning for Automated Stock Trading(股票交易強化學習)
 
 ---
-## Robotic Hand(敏捷機器手之強化學習)
+## Deep Reinforcement Learning for Automated Stock Trading(股票交易強化學習)
 
 ### 系統簡介及功能說明
 
@@ -20,6 +20,7 @@ tags: [jekyll, ai]
 ---
 ### 系統方塊圖
 系統流程圖<br>
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/DIAGRAM%20FOR%20STOCK%20%20DeepLearning.png?raw=true)
 
 
 AI模型說明<br>
