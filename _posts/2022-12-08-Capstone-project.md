@@ -38,7 +38,7 @@ AI模型說明<br>
 
 ---
 ### 系統測試及成果展示
-
+Layer 4
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/dense4.jpg?raw=true)
 <iframe width="857" height="482" src="https://www.youtube.com/embed/TJzfgipEACU" title="Watch a highly dexterous robotic hand use scissors and tweezers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
