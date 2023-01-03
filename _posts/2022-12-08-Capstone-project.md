@@ -39,6 +39,7 @@ AI模型說明<br>
 ---
 ### 系統測試及成果展示
 QDN
+
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/DQN.jpg?raw=true)
 DQN有兩個網絡，分別是預測網絡（Predict Q Network）和目標網絡（Target Q Network），預測網絡用來預測當前狀態對應各個動作的Q值，目標網絡用來預測下一個，或者下第幾個狀態各個動作的Q值。
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/%E6%A8%A1%E5%9E%8B.jpg?raw=true)
