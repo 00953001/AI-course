@@ -26,7 +26,7 @@ tags: [jekyll, ai]
 
 
 AI模型說明<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/stock_dqn.png?raw=true)
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/episode.jpg?raw=true)
 
 ---
 ### 製作步驟
