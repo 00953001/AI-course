@@ -26,18 +26,6 @@ tags: [jekyll, ai]
 
 
 AI模型說明<br>
-![](https://github.com/00953001/AI-course/blob/gh-pages/images/episode.jpg?raw=true)
-
----
-### 製作步驟
-
-1. 建立資料集 dataset
-2. 移植程式to Kaggle
-3. Kaggle上訓練模型
-4. Kaggle上測試模型
-
----
-### 系統測試及成果展示
 QDN
 
 ![](https://pic4.zhimg.com/v2-af5301606efb58939e09e007094e8a3f_r.jpg)
@@ -57,6 +45,18 @@ Dueling double DQN
 ![](https://pic2.zhimg.com/v2-e86875688ee51e15f8ef284be38275e1_r.jpg)
 
 Dueling DQN的思想就是獨立的學出Value和Advantage，將它們加起來組成Q，而不是像傳統DQN那樣直接學出所有的Q值
+
+---
+### 製作步驟
+
+1. 建立資料集 dataset
+2. 移植程式to Kaggle
+3. Kaggle上訓練模型
+4. Kaggle上測試模型
+
+---
+### 系統測試及成果展示
+
 
 <iframe width="857" height="482" src="https://www.youtube.com/embed/TJzfgipEACU" title="Watch a highly dexterous robotic hand use scissors and tweezers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
