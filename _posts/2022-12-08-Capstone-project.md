@@ -50,7 +50,7 @@ DDQN
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/DDQN.jpg?raw=true)
 
-在double q-learning中，是兩個estimator相互叠代估計，每個estimator從經驗集中的一個子集中學習，但在double DQN中事情變得並不相同，為了達到和DQN即為相似的結構只是在DQN的基礎上將online network直接用於求max時找action的index，然後就完全按照DQN中用target network的periodic copy來進行target的估計。直覺上與double q-learning相差很大，q-learning的理論分析不一定能直接套上。
+在double q-learning中，是兩個estimator相互疊代估計，每個estimator從經驗集中的一個子集中學習，但在double DQN中並不一樣，為了達到和DQN即為相似的結構只是在DQN的基礎上將online network直接用於求max時找action的index，然後就完全按照DQN中用target network的periodic copy來進行target的估計。直覺上與double q-learning相差很大，q-learning的理論分析不一定能直接套上。
 
 <iframe width="857" height="482" src="https://www.youtube.com/embed/TJzfgipEACU" title="Watch a highly dexterous robotic hand use scissors and tweezers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
