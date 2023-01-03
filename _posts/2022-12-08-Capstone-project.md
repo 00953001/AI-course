@@ -67,8 +67,6 @@ Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(2).png?raw=true)
 
-Profit 1080
-
 DDQN
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(3).png?raw=true)
@@ -76,8 +74,6 @@ DDQN
 Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(4).png?raw=true)
-
-Profit 1403
 
 Dueling DDQN
 
@@ -87,7 +83,6 @@ Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(6).png?raw=true)
 
-Profit 1417
 
 
 
