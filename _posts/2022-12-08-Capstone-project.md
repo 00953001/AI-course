@@ -59,7 +59,7 @@ Dueling DQN的思想就是獨立的學出Value和Advantage，將它們加起來�
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(1).png?raw=true)
 
-DQN<br>
+**DQN**
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot.png?raw=true)
 
@@ -67,7 +67,7 @@ Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(2).png?raw=true)
 
-DDQN<br>
+**DDQN**
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(3).png?raw=true)
 
@@ -75,7 +75,7 @@ Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(4).png?raw=true)
 
-Dueling DDQN<br>
+**Dueling DDQN**
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(5).png?raw=true)
 
