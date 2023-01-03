@@ -83,6 +83,17 @@ Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(6).png?raw=true)
 
+###結論
+
+從13年-2017年，DQN做的東西很多是搭了Deep learning的快車，大部分idea在傳統RL中已經有了，如何把它們融入Deep network是主要方向。
+
+2013的DQN出現具有重要意義，實現了q-learning在網絡中無法收斂的問題，而且如同deep learning的大部分工作一樣（nlp，GNN...）端到端一體化。DQN的兩個關鍵點在於experience replay和q-target設計，這也是最大的貢獻，後續的工作沿著這兩個問題繼續做。
+
+q-target好像一個estimator不太夠：double DQN利用兩個estimator解決overestimate的問題；
+
+q-target設計太簡單表達能力不夠：Dueling DQN則是從結構上的改進，更像是一種正則化手段增強學習能。
+
+後續的工作更多在於如何利用experience replay和q-target設計更加平穩快速地估計q值的問題。
 
 kaggle 網址:https://www.kaggle.com/yu0116/q-learning-on-stock
 
