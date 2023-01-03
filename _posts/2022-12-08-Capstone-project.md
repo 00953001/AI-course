@@ -38,11 +38,14 @@ AI模型說明<br>
 
 ---
 ### 系統測試及成果展示
-Layer 4
-![](https://github.com/00953001/AI-course/blob/gh-pages/images/dense4.jpg?raw=true)
+QDN
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/DQN.jpg?raw=true)
+DQN有兩個網絡，分別是預測網絡（Predict Q Network）和目標網絡（Target Q Network），預測網絡用來預測當前狀態對應各個動作的Q值，目標網絡用來預測下一個，或者下第幾個狀態各個動作的Q值。
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/%E6%A8%A1%E5%9E%8B.jpg?raw=true)
 
-Layer5
-![](https://github.com/00953001/AI-course/blob/gh-pages/images/dense5.jpg?raw=true)
+DDQN
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/DDQN.jpg?raw=true)
+在double q-learning中，是兩個estimator相互叠代估計，每個estimator從經驗集中的一個子集中學習，但在double DQN中事情變得並不相同，為了達到和DQN即為相似的結構只是在DQN的基礎上將online network直接用於求max時找action的index，然後就完全按照DQN中用target network的periodic copy來進行target的估計。直覺上與double q-learning相差很大，q-learning的理論分析不一定能直接套上。
 
 <iframe width="857" height="482" src="https://www.youtube.com/embed/TJzfgipEACU" title="Watch a highly dexterous robotic hand use scissors and tweezers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
