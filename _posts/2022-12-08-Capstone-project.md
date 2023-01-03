@@ -83,7 +83,7 @@ Loss and Reward
 
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(6).png?raw=true)
 
-###結論
+### 結論
 
 從13年-2017年，DQN做的東西很多是搭了Deep learning的快車，大部分idea在傳統RL中已經有了，如何把它們融入Deep network是主要方向。
 
