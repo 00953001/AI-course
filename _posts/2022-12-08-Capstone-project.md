@@ -40,15 +40,15 @@ AI模型說明<br>
 ### 系統測試及成果展示
 QDN
 
-![](https://github.com/00953001/AI-course/blob/gh-pages/images/DQN.jpg?raw=true)
+![](https://pic4.zhimg.com/v2-af5301606efb58939e09e007094e8a3f_r.jpg)
 
 DQN有兩個網絡，分別是預測網絡（Predict Q Network）和目標網絡（Target Q Network），預測網絡用來預測當前狀態對應各個動作的Q值，目標網絡用來預測下一個，或者下第幾個狀態各個動作的Q值。
 
-![](https://github.com/00953001/AI-course/blob/gh-pages/images/%E6%A8%A1%E5%9E%8B.jpg?raw=true)
+![](https://pic4.zhimg.com/v2-5e05f3af72d4885dfc3fc2e0a35388bb_r.jpg)
 
 DDQN
 
-![](https://github.com/00953001/AI-course/blob/gh-pages/images/DDQN.jpg?raw=true)
+![](https://pic3.zhimg.com/80/v2-d5de8538f067a0a0a67a5da3d8e9f59e_720w.webp)
 
 在double q-learning中，是兩個estimator相互疊代估計，每個estimator從經驗集中的一個子集中學習，但在double DQN中並不一樣，為了達到和DQN即為相似的結構只是在DQN的基礎上將online network直接用於求max時找action的index，然後就完全按照DQN中用target network的periodic copy來進行target的估計。直覺上與double q-learning相差很大，q-learning的理論分析不一定能直接套上。
 
