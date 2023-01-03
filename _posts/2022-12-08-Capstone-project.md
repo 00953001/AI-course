@@ -57,6 +57,40 @@ Dueling DQN的思想就是獨立的學出Value和Advantage，將它們加起來�
 ---
 ### 系統測試及成果展示
 
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(1).png?raw=true)
+
+DQN
+
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot.png?raw=true)
+
+Loss and Reward
+
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(2).png?raw=true)
+
+Profit 1080
+
+DDQN
+
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(3).png?raw=true)
+
+Loss and Reward
+
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(4).png?raw=true)
+
+Profit 1403
+
+Dueling DDQN
+
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(5).png?raw=true)
+
+Loss and Reward
+
+![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(6).png?raw=true)
+
+Profit 1417
+
+
+
 
 <iframe width="857" height="482" src="https://www.youtube.com/embed/TJzfgipEACU" title="Watch a highly dexterous robotic hand use scissors and tweezers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
