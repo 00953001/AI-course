@@ -84,7 +84,7 @@ Loss and Reward
 ![](https://github.com/00953001/AI-course/blob/gh-pages/images/newplot%20(6).png?raw=true)
 
 
-
+kaggle 網址:https://www.kaggle.com/yu0116/q-learning-on-stock
 
 
 <iframe width="857" height="482" src="https://www.youtube.com/embed/TJzfgipEACU" title="Watch a highly dexterous robotic hand use scissors and tweezers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
