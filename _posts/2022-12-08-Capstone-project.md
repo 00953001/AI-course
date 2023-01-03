@@ -13,7 +13,7 @@ tags: [jekyll, ai]
 
 ### 系統簡介及功能說明
 
-1. **系統簡介**:用多種深度強化學習方法集成來做交易策略，策略包含三種算法:Deep Q Network(DQN)、Advantage Actor Critic (A2C)和Proximal Policy Optimization(PPO)，分析三種算法的特性，從而根據不同的市場條件進行調整。
+1. **系統簡介**:用多種深度強化學習方法集成來做交易策略，策略包含Q-learning的三種算法:Deep Q Network(DQN)、Double DQN及Dueling Double DQN，分析三種算法的特性，從而根據不同的市場條件進行調整。
 
 
 
